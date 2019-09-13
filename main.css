@@ -1,0 +1,155 @@
+.banner-section {
+    background-image: url(https://images.unsplash.com/photo-1562596127-3885a12dcdb6);
+    background-size: cover;
+    height: 580px;
+    width: 100%;
+    position: relative;
+    background-position: 0;
+}
+
+.hero-text{
+    position: absolute;
+    top:200px;
+    left:520px
+    
+}
+
+.heading{
+    background:#45526E;
+    color:whitesmoke;
+    width: 400px;
+    text-align: center;
+    padding:10px;
+    font-weight: normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.73em;
+}
+
+h4{
+    background:#45526E;
+    color:whitesmoke;
+    font-weight: normal;
+    text-align: center;
+    padding: 9px;
+    width:250px;
+    position: relative;
+    left: 73px;
+}
+
+.email-button{
+    background:#1B1B1B;
+    color:#FDFCF8;
+    border:.5px solid #FDFCF8;
+    text-decoration: none;
+    font-size: xx-small;
+    padding:17px;
+    position: absolute;
+    left:117px;
+    width: 146px;
+    height: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.email-button:hover{
+    background:gray;
+    color:#FDFCF8;
+}
+
+.mission{
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+font-weight: normal;
+
+}
+
+.missionpara{
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+font-size: small
+}
+
+.text-muted{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #6c757d;
+    font-size: small;
+    
+}
+
+img{
+    height: 350px;
+    width: auto;
+}
+
+.card-title{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    width:474px;
+    padding:3px
+
+}
+
+.card-paragraph{
+    font-family: 'Courier New', Courier, monospace;
+    color: #6c757d;
+    font-size: small;
+    width: 475px;
+    padding:3px;
+    position: relative;
+    bottom: 22px
+}
+
+.card{
+    position: relative;
+    display: inline-flex;
+    flex-direction: column;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    width: 33%;
+    height: 100%
+    
+}
+
+.secondbutton{
+    background:black;
+    color:whitesmoke;
+    border: .5px solid whitesmoke;
+    font-weight: normal;
+    font-size:XX-small;
+    padding:10px;
+    text-decoration: none;
+    position: absolute;
+    bottom: 3.5px;
+    left:3px;
+    width:100px;
+    text-align: center;
+    
+
+
+}
+
+.secondbutton:hover{
+    background:gray;
+    color:whitesmoke;
+    border: .5px solid whitesmoke;
+}
+
+footer{
+    background: #45526E;
+    height:50px
+}
+
+.footer{
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    font-size: small;
+    width: auto;
+    padding:3px;
+    position: relative;
+    top: 15px;
+    text-align: center;
+}
